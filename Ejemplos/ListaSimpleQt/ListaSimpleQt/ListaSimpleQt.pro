@@ -25,9 +25,13 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    simplelist.cpp
+    simplelist.cpp \
+    doublelist.cpp \
+    jsonreader.cpp
 
 HEADERS  += mainwindow.h \
-    simplelist.h
+    simplelist.h \
+    doublelist.h \
+    jsonreader.h
 
 FORMS    += mainwindow.ui

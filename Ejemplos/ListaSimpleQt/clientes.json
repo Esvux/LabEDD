@@ -1,0 +1,862 @@
+[
+	{
+		"NIT":"28659-0","nombre":"Ebba",
+		"facturas": [			
+			{
+				"serie":"A0","correlativo":"91800","fecha":"18/04/2017",
+				"productos": [
+					{"codigo":"P167","cantidad":12,"descuento":5.87},
+					{"codigo":"P154","cantidad":19,"descuento":4.33}
+				]
+			},
+			{
+				"serie":"A3","correlativo":"97518","fecha":"06/04/2017",
+				"productos": [
+					{"codigo":"P207","cantidad":10,"descuento":56.45},
+					{"codigo":"P802","cantidad":55,"descuento":92.85}
+				]
+			},
+			{
+				"serie":"A1","correlativo":"46904","fecha":"29/07/2017",
+				"productos": [
+					{"codigo":"P167","cantidad":26,"descuento":88.63},
+					{"codigo":"P154","cantidad":3,"descuento":55.39}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"15718-3","nombre":"Sibeal",
+		"facturas": [
+			{
+				"serie":"A8","correlativo":"34963","fecha":"12/10/2017",
+				"productos" : [
+					{"codigo":"P802","cantidad":53,"descuento":15.96},
+					{"codigo":"P584","cantidad":22,"descuento":99.73}
+				]
+			},
+			{
+				"serie":"A3","correlativo":"61145","fecha":"22/01/2018",
+				"productos" : [
+					{"codigo":"P167","cantidad":86,"descuento":37.41},
+					{"codigo":"P802","cantidad":75,"descuento":85.81}
+				]
+			},
+			{
+				"serie":"A6","correlativo":"75916","fecha":"30/05/2017",
+				"productos" : [
+					{"codigo":"P609","cantidad":29,"descuento":43.4},
+					{"codigo":"P200","cantidad":11,"descuento":5.59}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"73697-5","nombre":"Harmonia",
+		"facturas": [
+			{
+				"serie":"A7","correlativo":"06957","fecha":"08/02/2017",
+				"productos" : [
+					{"codigo":"P097","cantidad":30,"descuento":51.6},
+					{"codigo":"P483","cantidad":95,"descuento":9.34}
+				]
+			},
+			{
+				"serie":"A8","correlativo":"83949","fecha":"26/04/2017",
+				"productos" : [
+					{"codigo":"P154","cantidad":60,"descuento":16.5},
+					{"codigo":"P746","cantidad":58,"descuento":88.35}
+				]
+			},
+			{
+				"serie":"A1","correlativo":"99790","fecha":"14/07/2017",
+				"productos" : [
+					{"codigo":"P935","cantidad":42,"descuento":70.76},
+					{"codigo":"P478","cantidad":85,"descuento":95.42}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"75811-8","nombre":"Wallas",
+		"facturas": [
+			{
+				"serie":"A7","correlativo":"24147","fecha":"03/05/2017",
+				"productos" : [
+					{"codigo":"P154","cantidad":67,"descuento":83.36},
+					{"codigo":"P645","cantidad":19,"descuento":92.13}
+				]
+			},
+			{
+				"serie":"A0","correlativo":"08763","fecha":"09/04/2017",
+				"productos" : [
+					{"codigo":"P695","cantidad":9,"descuento":65.53},
+					{"codigo":"P921","cantidad":100,"descuento":35.88}
+				]
+			},
+			{
+				"serie":"A3","correlativo":"75608","fecha":"25/11/2017",
+				"productos" : [
+					{"codigo":"P642","cantidad":71,"descuento":62.85},
+					{"codigo":"P202","cantidad":64,"descuento":29.66}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"74096-6","nombre":"Hector",
+		"facturas": [
+			{
+				"serie":"A5","correlativo":"85112","fecha":"17/02/2018",
+				"productos" : [
+					{"codigo":"P167","cantidad":58,"descuento":23.79},
+					{"codigo":"P154","cantidad":71,"descuento":5.16}
+				]
+			},
+			{
+				"serie":"A4","correlativo":"18772","fecha":"04/07/2017",
+				"productos" : [
+					{"codigo":"P207","cantidad":53,"descuento":18.18},
+					{"codigo":"P753","cantidad":61,"descuento":83.93}
+				]
+			},
+			{
+				"serie":"A2","correlativo":"63317","fecha":"24/11/2017",
+				"productos" : [
+					{"codigo":"P167","cantidad":53,"descuento":25.63},
+					{"codigo":"P154","cantidad":33,"descuento":40.2}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"29842-8","nombre":"Morganica",
+		"facturas": [
+			{
+				"serie":"A0","correlativo":"40536","fecha":"04/05/2017",
+				"productos" : [
+					{"codigo":"P154","cantidad":71,"descuento":73.5},
+					{"codigo":"P663","cantidad":28,"descuento":68.03}
+				]
+			},
+			{
+				"serie":"A7","correlativo":"25577","fecha":"12/08/2017",
+				"productos" : [
+					{"codigo":"P167","cantidad":57,"descuento":30.04},
+					{"codigo":"P131","cantidad":81,"descuento":43.43}
+				]
+			},
+			{
+				"serie":"A8","correlativo":"72048","fecha":"27/05/2017",
+				"productos" : [
+					{"codigo":"P154","cantidad":73,"descuento":63.36},
+					{"codigo":"P699","cantidad":76,"descuento":86.77}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"50299-1","nombre":"Misty",
+		"facturas": [
+			{
+				"serie":"A0","correlativo":"60043","fecha":"12/01/2018",
+				"productos" : [
+					{"codigo":"P255","cantidad":20,"descuento":76.84},
+					{"codigo":"P269","cantidad":9,"descuento":44.28}
+				]
+			},
+			{
+				"serie":"A3","correlativo":"72099","fecha":"18/12/2017",
+				"productos" : [
+					{"codigo":"P831","cantidad":92,"descuento":39.96},
+					{"codigo":"P609","cantidad":24,"descuento":89.03}
+				]
+			},
+			{
+				"serie":"A2","correlativo":"36380","fecha":"03/08/2017",
+				"productos" : [
+					{"codigo":"P269","cantidad":61,"descuento":30.48},
+					{"codigo":"P831","cantidad":36,"descuento":26.82}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"76119-0","nombre":"Mordy",
+		"facturas": [
+			{
+				"serie":"A2","correlativo":"26934","fecha":"02/04/2017",
+				"productos" : [
+					{"codigo":"P609","cantidad":28,"descuento":55.96},
+					{"codigo":"P984","cantidad":15,"descuento":70.14}
+				]
+			},
+			{
+				"serie":"A1","correlativo":"79828","fecha":"24/10/2017",
+				"productos" : [
+					{"codigo":"P764","cantidad":23,"descuento":75.56},
+					{"codigo":"P064","cantidad":7,"descuento":1.36}
+				]
+			},
+			{
+				"serie":"A6","correlativo":"86212","fecha":"01/01/2018",
+				"productos" : [
+					{"codigo":"P609","cantidad":70,"descuento":59.32},
+					{"codigo":"P055","cantidad":34,"descuento":56.88}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"44379-6","nombre":"Tiertza",
+		"facturas": [
+			{
+				"serie":"A7","correlativo":"88425","fecha":"04/09/2017",
+				"productos" : [
+					{"codigo":"P167","cantidad":31,"descuento":32.83},
+					{"codigo":"P154","cantidad":71,"descuento":38.51}
+				]
+			},
+			{
+				"serie":"A2","correlativo":"69573","fecha":"14/02/2017",
+				"productos" : [
+					{"codigo":"P207","cantidad":83,"descuento":98.39},
+					{"codigo":"P609","cantidad":12,"descuento":64.62}
+				]
+			},
+			{
+				"serie":"A5","correlativo":"23786","fecha":"20/09/2017",
+				"productos" : [
+					{"codigo":"P167","cantidad":26,"descuento":13.28},
+					{"codigo":"P154","cantidad":77,"descuento":82.62}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"16197-5","nombre":"Mariana",
+		"facturas": [
+			{
+				"serie":"A4","correlativo":"84190","fecha":"06/11/2017",
+				"productos" : [
+					{"codigo":"P154","cantidad":26,"descuento":92.85},
+					{"codigo":"P721","cantidad":30,"descuento":57.81}
+				]
+			},
+			{
+				"serie":"A5","correlativo":"66518","fecha":"28/09/2017",
+				"productos" : [
+					{"codigo":"P167","cantidad":93,"descuento":41.03},
+					{"codigo":"P974","cantidad":5,"descuento":27.43}
+				]
+			},
+			{
+				"serie":"A7","correlativo":"72051","fecha":"18/04/2017",
+				"productos" : [
+					{"codigo":"P154","cantidad":32,"descuento":55.43},
+					{"codigo":"P559","cantidad":56,"descuento":19.69}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"47437-3","nombre":"Cheslie",
+		"facturas": [
+			{
+				"serie":"A4","correlativo":"54323","fecha":"03/08/2017",
+				"productos" : [
+					{"codigo":"P721","cantidad":21,"descuento":44.89},
+					{"codigo":"P974","cantidad":82,"descuento":87.61}
+				]
+			},
+			{
+				"serie":"A1","correlativo":"33365","fecha":"11/09/2017",
+				"productos" : [
+					{"codigo":"P559","cantidad":32,"descuento":38.3},
+					{"codigo":"P225","cantidad":14,"descuento":52.75}
+				]
+			},
+			{
+				"serie":"A9","correlativo":"51252","fecha":"18/06/2017",
+				"productos" : [
+					{"codigo":"P651","cantidad":46,"descuento":93.25},
+					{"codigo":"P399","cantidad":15,"descuento":58.7}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"64885-9","nombre":"Leonie",
+		"facturas": [
+			{
+				"serie":"A8","correlativo":"19124","fecha":"11/06/2017",
+				"productos" : [
+					{"codigo":"P629","cantidad":39,"descuento":57.85},
+					{"codigo":"P263","cantidad":100,"descuento":27.68}
+				]
+			},
+			{
+				"serie":"A3","correlativo":"36149","fecha":"25/07/2017",
+				"productos" : [
+					{"codigo":"P350","cantidad":46,"descuento":97.56},
+					{"codigo":"P356","cantidad":86,"descuento":60.5}
+				]
+			},
+			{
+				"serie":"A4","correlativo":"89807","fecha":"10/08/2017",
+				"productos" : [
+					{"codigo":"P629","cantidad":99,"descuento":5.33},
+					{"codigo":"P571","cantidad":25,"descuento":90.91}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"32986-1","nombre":"Sherlocke",
+		"facturas": [
+			{
+				"serie":"A8","correlativo":"26143","fecha":"10/02/2017",
+				"productos" : [
+					{"codigo":"P167","cantidad":8,"descuento":6.32},
+					{"codigo":"P154","cantidad":69,"descuento":41.07}
+				]
+			},
+			{
+				"serie":"A9","correlativo":"66875","fecha":"02/08/2017",
+				"productos" : [
+					{"codigo":"P207","cantidad":88,"descuento":34.55},
+					{"codigo":"P629","cantidad":15,"descuento":59.49}
+				]
+			},
+			{
+				"serie":"A9","correlativo":"60367","fecha":"17/11/2017",
+				"productos" : [
+					{"codigo":"P167","cantidad":5,"descuento":85.29},
+					{"codigo":"P154","cantidad":91,"descuento":89.36}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"75194-4","nombre":"Thorsten",
+		"facturas": [
+			{
+				"serie":"A3","correlativo":"40382","fecha":"29/09/2017",
+				"productos" : [
+					{"codigo":"P154","cantidad":5,"descuento":99.4},
+					{"codigo":"P592","cantidad":90,"descuento":27.91}
+				]
+			},
+			{
+				"serie":"A7","correlativo":"67272","fecha":"11/12/2017",
+				"productos" : [
+					{"codigo":"P167","cantidad":19,"descuento":44.11},
+					{"codigo":"P630","cantidad":86,"descuento":22.4}
+				]
+			},
+			{
+				"serie":"A2","correlativo":"99384","fecha":"08/09/2017",
+				"productos" : [
+					{"codigo":"P154","cantidad":34,"descuento":54.34},
+					{"codigo":"P592","cantidad":22,"descuento":55.13}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"11741-2","nombre":"Lonna",
+		"facturas": [
+			{
+				"serie":"A2","correlativo":"70070","fecha":"19/11/2017",
+				"productos" : [
+					{"codigo":"P266","cantidad":47,"descuento":69.71},
+					{"codigo":"P497","cantidad":28,"descuento":13.79}
+				]
+			},
+			{
+				"serie":"A6","correlativo":"96935","fecha":"10/02/2017",
+				"productos" : [
+					{"codigo":"P592","cantidad":34,"descuento":18.19},
+					{"codigo":"P630","cantidad":80,"descuento":32.47}
+				]
+			},
+			{
+				"serie":"A7","correlativo":"45808","fecha":"15/02/2017",
+				"productos" : [
+					{"codigo":"P425","cantidad":50,"descuento":42.86},
+					{"codigo":"P681","cantidad":79,"descuento":31.78}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"20106-1","nombre":"Kort",
+		"facturas": [
+			{
+				"serie":"A1","correlativo":"25509","fecha":"03/05/2017",
+				"productos" : [
+					{"codigo":"P167","cantidad":37,"descuento":21.39},
+					{"codigo":"P154","cantidad":65,"descuento":58.51}
+				]
+			},
+			{
+				"serie":"A0","correlativo":"73665","fecha":"10/06/2017",
+				"productos" : [
+					{"codigo":"P207","cantidad":17,"descuento":34.17},
+					{"codigo":"P991","cantidad":50,"descuento":16.28}
+				]
+			},
+			{
+				"serie":"A8","correlativo":"51191","fecha":"20/10/2017",
+				"productos" : [
+					{"codigo":"P167","cantidad":58,"descuento":45.77},
+					{"codigo":"P154","cantidad":45,"descuento":93.14}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"79943-9","nombre":"Hernando",
+		"facturas": [
+			{
+				"serie":"A6","correlativo":"68732","fecha":"22/02/2017",
+				"productos" : [
+					{"codigo":"P154","cantidad":89,"descuento":97.78},
+					{"codigo":"P991","cantidad":42,"descuento":30.25}
+				]
+			},
+			{
+				"serie":"A3","correlativo":"08062","fecha":"06/05/2017",
+				"productos" : [
+					{"codigo":"P167","cantidad":95,"descuento":42.25},
+					{"codigo":"P434","cantidad":87,"descuento":93.0}
+				]
+			},
+			{
+				"serie":"A8","correlativo":"90296","fecha":"31/05/2017",
+				"productos" : [
+					{"codigo":"P154","cantidad":53,"descuento":71.56},
+					{"codigo":"P989","cantidad":98,"descuento":13.91}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"80783-4","nombre":"Karola",
+		"facturas": [
+			{
+				"serie":"A2","correlativo":"47506","fecha":"11/05/2017",
+				"productos" : [
+					{"codigo":"P333","cantidad":53,"descuento":56.87},
+					{"codigo":"P224","cantidad":95,"descuento":67.87}
+				]
+			},
+			{
+				"serie":"A0","correlativo":"77201","fecha":"05/05/2017",
+				"productos" : [
+					{"codigo":"P745","cantidad":68,"descuento":19.57},
+					{"codigo":"P528","cantidad":35,"descuento":73.37}
+				]
+			},
+			{
+				"serie":"A8","correlativo":"30308","fecha":"13/10/2017",
+				"productos" : [
+					{"codigo":"P333","cantidad":59,"descuento":88.92},
+					{"codigo":"P745","cantidad":2,"descuento":20.78}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"22970-4","nombre":"Darrelle",
+		"facturas": [
+			{
+				"serie":"A3","correlativo":"32028","fecha":"16/05/2017",
+				"productos" : [
+					{"codigo":"P745","cantidad":10,"descuento":43.08},
+					{"codigo":"P224","cantidad":4,"descuento":33.68}
+				]
+			},
+			{
+				"serie":"A0","correlativo":"32073","fecha":"13/03/2017",
+				"productos" : [
+					{"codigo":"P333","cantidad":36,"descuento":35.01},
+					{"codigo":"P528","cantidad":53,"descuento":53.03}
+				]
+			},
+			{
+				"serie":"A0","correlativo":"64710","fecha":"07/04/2017",
+				"productos" : [
+					{"codigo":"P224","cantidad":93,"descuento":88.48},
+					{"codigo":"P528","cantidad":64,"descuento":19.29}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"60493-4","nombre":"Valerye",
+		"facturas": [
+			{
+				"serie":"A2","correlativo":"09768","fecha":"07/03/2017",
+				"productos" : [
+					{"codigo":"P167","cantidad":13,"descuento":88.66},
+					{"codigo":"P154","cantidad":85,"descuento":62.61}
+				]
+			},
+			{
+				"serie":"A8","correlativo":"53758","fecha":"22/09/2017",
+				"productos" : [
+					{"codigo":"P207","cantidad":53,"descuento":51.4},
+					{"codigo":"P556","cantidad":100,"descuento":21.83}
+				]
+			},
+			{
+				"serie":"A0","correlativo":"51976","fecha":"13/12/2017",
+				"productos" : [
+					{"codigo":"P167","cantidad":64,"descuento":29.02},
+					{"codigo":"P154","cantidad":28,"descuento":64.64}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"35850-0","nombre":"Binnie",
+		"facturas": [
+			{
+				"serie":"A2","correlativo":"30567","fecha":"21/12/2017",
+				"productos" : [
+					{"codigo":"P079","cantidad":40,"descuento":41.9}
+				]
+			},
+			{
+				"serie":"A7","correlativo":"16366","fecha":"13/02/2018",
+				"productos" : [
+					{"codigo":"P557","cantidad":79,"descuento":47.75}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"32206-9","nombre":"Carmine",
+		"facturas": [
+			{
+				"serie":"A8","correlativo":"87208","fecha":"21/04/2017",
+				"productos" : [
+					{"codigo":"P979","cantidad":58,"descuento":98.33}
+				]
+			},
+			{
+				"serie":"A8","correlativo":"47692","fecha":"13/05/2017",
+				"productos" : [
+					{"codigo":"P079","cantidad":4,"descuento":34.81}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"82723-4","nombre":"Petr",
+		"facturas": [
+			{
+				"serie":"A8","correlativo":"64270","fecha":"11/02/2018",
+				"productos" : [
+					{"codigo":"P557","cantidad":56,"descuento":3.31}
+				]
+			},
+			{
+				"serie":"A1","correlativo":"54342","fecha":"26/12/2017",
+				"productos" : [
+					{"codigo":"P979","cantidad":7,"descuento":12.49}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"59383-9","nombre":"Mohandis",
+		"facturas": [
+			{
+				"serie":"A6","correlativo":"79193","fecha":"20/02/2017",
+				"productos" : [
+					{"codigo":"P458","cantidad":18,"descuento":12.39}
+				]
+			},
+			{
+				"serie":"A3","correlativo":"37129","fecha":"03/06/2017",
+				"productos" : [
+					{"codigo":"P749","cantidad":55,"descuento":88.4}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"89906-6","nombre":"Zora",
+		"facturas": [
+			{
+				"serie":"A1","correlativo":"08427","fecha":"06/11/2017",
+				"productos" : [
+					{"codigo":"P245","cantidad":84,"descuento":91.62}
+				]
+			},
+			{
+				"serie":"A5","correlativo":"96297","fecha":"13/02/2017",
+				"productos" : [
+					{"codigo":"P458","cantidad":19,"descuento":16.55}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"30513-6","nombre":"Cammy",
+		"facturas": [
+			{
+				"serie":"A6","correlativo":"53324","fecha":"04/07/2017",
+				"productos" : [
+					{"codigo":"P749","cantidad":43,"descuento":39.81}
+				]
+			},
+			{
+				"serie":"A7","correlativo":"74015","fecha":"15/05/2017",
+				"productos" : [
+					{"codigo":"P245","cantidad":96,"descuento":7.75}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"48043-5","nombre":"Hildagarde",
+		"facturas": [
+			{
+				"serie":"A2","correlativo":"80138","fecha":"08/10/2017",
+				"productos" : [
+					{"codigo":"P649","cantidad":86,"descuento":15.94}
+				]
+			},
+			{
+				"serie":"A5","correlativo":"21995","fecha":"29/08/2017",
+				"productos" : [
+					{"codigo":"P691","cantidad":26,"descuento":19.06}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"65559-1","nombre":"Fania",
+		"facturas": [
+			{
+				"serie":"A9","correlativo":"38342","fecha":"12/07/2017",
+				"productos" : [
+					{"codigo":"P691","cantidad":1,"descuento":68.92}
+				]
+			},
+			{
+				"serie":"A0","correlativo":"62339","fecha":"12/05/2017",
+				"productos" : [
+					{"codigo":"P472","cantidad":95,"descuento":11.48}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"63511-3","nombre":"Cecile",
+		"facturas": [
+			{
+				"serie":"A1","correlativo":"56339","fecha":"16/01/2018",
+				"productos" : [
+					{"codigo":"P649","cantidad":38,"descuento":18.49}
+				]
+			},
+			{
+				"serie":"A9","correlativo":"58186","fecha":"18/02/2017",
+				"productos" : [
+					{"codigo":"P472","cantidad":92,"descuento":52.64}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"41773-1","nombre":"Ewell",
+		"facturas": [
+			{
+				"serie":"A0","correlativo":"73303","fecha":"22/09/2017",
+				"productos" : [
+					{"codigo":"P475","cantidad":65,"descuento":81.39}
+				]
+			},
+			{
+				"serie":"A8","correlativo":"80995","fecha":"05/12/2017",
+				"productos" : [
+					{"codigo":"P805","cantidad":3,"descuento":35.43}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"28491-7","nombre":"Claudina",
+		"facturas": [
+			{
+				"serie":"A3","correlativo":"18516","fecha":"20/03/2017",
+				"productos" : [
+					{"codigo":"P032","cantidad":36,"descuento":91.87}
+				]
+			},
+			{
+				"serie":"A8","correlativo":"44790","fecha":"01/06/2017",
+				"productos" : [
+					{"codigo":"P475","cantidad":46,"descuento":28.49}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"77406-8","nombre":"Alleyn",
+		"facturas": [
+			{
+				"serie":"A3","correlativo":"16500","fecha":"28/12/2017",
+				"productos" : [
+					{"codigo":"P805","cantidad":66,"descuento":95.63}
+				]
+			},
+			{
+				"serie":"A5","correlativo":"71406","fecha":"09/08/2017",
+				"productos" : [
+					{"codigo":"P032","cantidad":43,"descuento":79.38}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"44040-8","nombre":"Marlon",
+		"facturas": [
+			{
+				"serie":"A2","correlativo":"84733","fecha":"20/01/2018",
+				"productos" : [
+					{"codigo":"P738","cantidad":16,"descuento":77.24}
+				]
+			},
+			{
+				"serie":"A6","correlativo":"59679","fecha":"30/10/2017",
+				"productos" : [
+					{"codigo":"P738","cantidad":91,"descuento":62.21}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"24438-0","nombre":"Orv",
+		"facturas": [
+			{
+				"serie":"A2","correlativo":"68830","fecha":"14/10/2017",
+				"productos" : [
+					{"codigo":"P935","cantidad":35,"descuento":49.72}
+				]
+			},
+			{
+				"serie":"A1","correlativo":"66939","fecha":"25/08/2017",
+				"productos" : [
+					{"codigo":"P606","cantidad":42,"descuento":4.16}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"31285-8","nombre":"Alena",
+		"facturas": [
+			{
+				"serie":"A7","correlativo":"81077","fecha":"01/10/2017",
+				"productos" : [
+					{"codigo":"P935","cantidad":40,"descuento":3.01}
+				]
+			},
+			{
+				"serie":"A0","correlativo":"21620","fecha":"30/01/2018",
+				"productos" : [
+					{"codigo":"P879","cantidad":3,"descuento":27.81}
+				]
+			}
+		]
+	},
+	{
+		"NIT":"20119-7","nombre":"Wini",
+		"facturas": [
+			{
+				"serie":"A2","correlativo":"96873","fecha":"09/12/2017",
+				"productos" : [
+
+				]
+			},
+			{
+				"serie":"A8","correlativo":"85812","fecha":"11/07/2017",
+				"productos" : [
+
+				]
+			}
+		]
+	},
+	{
+		"NIT":"78519-5","nombre":"Eva",
+		"facturas": [
+			{
+				"serie":"A8","correlativo":"11315","fecha":"12/01/2018",
+				"productos" : [
+
+				]
+			},
+			{
+				"serie":"A9","correlativo":"10837","fecha":"27/05/2017",
+				"productos" : [
+
+				]
+			}
+		]
+	},
+	{
+		"NIT":"67273-4","nombre":"Jocko",
+		"facturas": [
+			{
+				"serie":"A8","correlativo":"28716","fecha":"06/03/2017",
+				"productos" : [
+
+				]
+			},
+			{
+				"serie":"A2","correlativo":"70585","fecha":"26/10/2017",
+				"productos" : [
+
+				]
+			}
+		]
+	},
+	{
+		"NIT":"17831-0","nombre":"Chet",
+		"facturas": [
+			{
+				"serie":"A9","correlativo":"67159","fecha":"22/05/2017",
+				"productos" : [
+
+				]
+			},
+			{
+				"serie":"A5","correlativo":"37538","fecha":"18/02/2018",
+				"productos" : [
+
+				]
+			}
+		]
+	},
+	{
+		"NIT":"22663-0","nombre":"Bethanne",
+		"facturas": [
+			{
+				"serie":"A6","correlativo":"31789","fecha":"19/07/2017",
+				"productos": [
+
+				]
+			},
+			{
+				"serie":"A9","correlativo":"36095","fecha":"22/10/2017",
+				"productos": [
+
+				]
+			}
+		]
+	}
+]
