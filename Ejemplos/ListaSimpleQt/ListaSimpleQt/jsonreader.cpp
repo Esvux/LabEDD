@@ -3,11 +3,7 @@
 #include <QJsonDocument>
 #include <QJsonArray>
 #include <QJsonObject>
-#include <QTime>
 #include <QMessageBox>
-
-void JsonReader::fillListFromFile(SimpleList *list, QByteArray json) {
-}
 
 void JsonReader::fillListFromFile(DoubleList *list, QByteArray json) {
     QJsonDocument doc = QJsonDocument::fromJson(json);
@@ -17,7 +13,9 @@ void JsonReader::fillListFromFile(DoubleList *list, QByteArray json) {
     }
     QJsonArray array = doc.array();
     int max = array.size();
-    int startms = QTime::currentTime().msec();
+
+    clock_t t;
+    t = clock();
     for(int i = 0; i < max; i++) {
         QJsonValueRef ref = array[i];
         if(! ref.isObject())
@@ -31,7 +29,8 @@ void JsonReader::fillListFromFile(DoubleList *list, QByteArray json) {
             continue;
         list->insert(new DoubleNode(nameValue.toString(), taxIdValue.toString()));
     }
-    int endms = QTime::currentTime().msec();
-    QString resume = QString::asprintf("Se cargaron correctamente %d de %d registros en aproximadamente %d ms.", list->size(), max, endms - startms);
+    t = clock() - t;
+    //QString resume = QString::asprintf("Se cargaron correctamente %d de %d registros en %ld ciclos de reloj.", list->size(), max, t);
+    QString resume = QString::asprintf("Se cargaron correctamente %d de %d registros en %f milisegundos.", list->size(), max, ((double)t / CLOCKS_PER_SEC) * 1000);
     QMessageBox::information(NULL, "Rendimiento lista doble", resume);
 }

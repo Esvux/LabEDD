@@ -7,7 +7,6 @@
 class JsonReader
 {
 public:
-    static void fillListFromFile(SimpleList *list, QByteArray json);
     static void fillListFromFile(DoubleList *list, QByteArray json);
 
 };
