@@ -37,6 +37,11 @@ void MainWindow::on_pushButton_2_clicked() {
     if (!file.open(QIODevice::ReadOnly | QIODevice::Text))
         return;
     QByteArray ba = file.readAll();
+
+    free(this->doubleCustomerList);
+    this->doubleCustomerList = NULL;
+    this->doubleCustomerList = new DoubleList();
+
     JsonReader::fillListFromFile(this->doubleCustomerList, ba);
     this->doubleCustomerList->fillTable(ui->tableWidget);
 }
