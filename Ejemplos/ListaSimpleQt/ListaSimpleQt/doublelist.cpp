@@ -169,6 +169,7 @@ void DoubleList::clear() {
  *
  */
 DoubleNode::DoubleNode() {
+    this->items = new SimpleList();
     this->name = "";
     this->taxId = "";
     this->prev = NULL;
@@ -176,6 +177,7 @@ DoubleNode::DoubleNode() {
 }
 
 DoubleNode::DoubleNode(QString name, QString taxId) {
+    this->items = new SimpleList();
     this->name = name;
     this->taxId = taxId;
     this->prev = NULL;

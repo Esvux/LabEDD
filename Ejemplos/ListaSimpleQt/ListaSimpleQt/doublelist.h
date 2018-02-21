@@ -1,5 +1,6 @@
 #ifndef DOUBLELIST_H
 #define DOUBLELIST_H
+#include "simplelist.h"
 #include <QString>
 #include <QTableWidget>
 
@@ -8,6 +9,7 @@ class DoubleNode
 private:
     QString name;
     QString taxId;
+    SimpleList* items;
 
 public:
     DoubleNode* next;

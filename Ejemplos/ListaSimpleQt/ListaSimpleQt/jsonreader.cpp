@@ -27,6 +27,12 @@ void JsonReader::fillListFromFile(DoubleList *list, QByteArray json) {
         QJsonValue taxIdValue = obj["NIT"];
         if(taxIdValue.isUndefined() || taxIdValue.isNull())
             continue;
+        QJsonValue priceValue = obj["precio"];
+        if(priceValue.isUndefined() || priceValue.isNull() || priceValue.isDouble())
+            continue;
+
+        double precio = priceValue.toDouble();
+
         list->insert(new DoubleNode(nameValue.toString(), taxIdValue.toString()));
     }
     t = clock() - t;

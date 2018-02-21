@@ -11,7 +11,7 @@ void SimpleList::insert(SimpleNode* node) {
     insertAtStart(node);
 }
 
-void SimpleList::insertAtStart(SimpleNode* node) {
+void SimpleList::insertAtEnd(SimpleNode* node) {
     if(! firstInsert(node)) {
         this->end->next = node;
         this->end = node;
@@ -19,7 +19,7 @@ void SimpleList::insertAtStart(SimpleNode* node) {
     }
 }
 
-void SimpleList::insertAtEnd(SimpleNode* node) {
+void SimpleList::insertAtStart(SimpleNode* node) {
     if(! firstInsert(node)) {
         node->next = this->start;
         this->start = node;
