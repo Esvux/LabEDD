@@ -5,5 +5,5 @@ En esta clase se tratan temas teóricos para poder analizar el comportamiento as
 ## Clase 2 - Memoria dinámica, listas y generics
 En esta clase se da una introducción al manejo de memoria dinámica con elementos teóricos y varios ejemplos prácticos en C++, además de un vistazo simple a los Generics.
 ## Clase 3 - Arreglos y mapeo
-En esta clase se abordó la temática del mapeo para arreglos multidimensionales, tanto con índices fijos, como índices compuestos.
-### Próxima clase: Arreglos y mapeo lexicográfico
+En esta clase se abordó la temática del mapeo para arreglos multidimensionales, tanto con índices fijos, como con índices compuestos.
+### Próxima clase: Árboles
