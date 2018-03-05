@@ -6,4 +6,6 @@ En esta clase se tratan temas teóricos para poder analizar el comportamiento as
 En esta clase se da una introducción al manejo de memoria dinámica con elementos teóricos y varios ejemplos prácticos en C++, además de un vistazo simple a los Generics.
 ## Clase 3 - Arreglos y mapeo
 En esta clase se abordó la temática del mapeo para arreglos multidimensionales, tanto con índices fijos, como con índices compuestos.
-### Próxima clase: Árboles
+## Clase 4 - Árboles binarios
+En esta clase se trataron temas relacionados con los árboles binarios y se desarrolló un ejemplo desde cero de cómo programar un árbol binario simple en C.
+### Próxima clase: Árboles de órden n
