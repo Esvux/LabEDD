@@ -1,0 +1,242 @@
+[
+  {
+    "codigo": "P831",
+    "nombre": "Producto P831",
+    "descripcion": "Producto de prueba",
+    "precio": 83.1
+  },
+  {
+    "codigo": "P609",
+    "nombre": "Producto P609",
+    "descripcion": "Producto de prueba",
+    "precio": 60.9
+  },
+  {
+    "codigo": "P207",
+    "nombre": "Producto P207",
+    "descripcion": "Producto de prueba",
+    "precio": 20.7
+  },
+  {
+    "codigo": "P154",
+    "nombre": "Producto P154",
+    "descripcion": "Producto de prueba",
+    "precio": 15.4
+  },
+  {
+    "codigo": "P167",
+    "nombre": "Producto P167",
+    "descripcion": "Producto de prueba",
+    "precio": 16.7
+  },
+  {
+    "codigo": "Q154",
+    "nombre": "Producto Q154",
+    "descripcion": "Producto de prueba",
+    "precio": 15.4
+  },
+  {
+    "codigo": "R154",
+    "nombre": "Producto R154",
+    "descripcion": "Producto de prueba",
+    "precio": 15.4
+  },
+  {
+    "codigo": "S154",
+    "nombre": "Producto S154",
+    "descripcion": "Producto de prueba",
+    "precio": 15.4
+  },
+  {
+    "codigo": "P584",
+    "nombre": "Producto P584",
+    "descripcion": "Producto de prueba",
+    "precio": 58.4
+  },
+  {
+    "codigo": "P802",
+    "nombre": "Producto P802",
+    "descripcion": "Producto de prueba",
+    "precio": 80.2
+  },
+  {
+    "codigo": "P200",
+    "nombre": "Producto P200",
+    "descripcion": "Producto de prueba",
+    "precio": 20
+  },
+  {
+    "codigo": "P097",
+    "nombre": "Producto P097",
+    "descripcion": "Producto de prueba",
+    "precio": 9.7
+  },
+  {
+    "codigo": "P483",
+    "nombre": "Producto P483",
+    "descripcion": "Producto de prueba",
+    "precio": 48.3
+  },
+  {
+    "codigo": "P746",
+    "nombre": "Producto P746",
+    "descripcion": "Producto de prueba",
+    "precio": 74.6
+  },
+  {
+    "codigo": "P935",
+    "nombre": "Producto P935",
+    "descripcion": "Producto de prueba",
+    "precio": 93.5
+  },
+  {
+    "codigo": "P478",
+    "nombre": "Producto P478",
+    "descripcion": "Producto de prueba",
+    "precio": 47.8
+  },
+  {
+    "codigo": "P645",
+    "nombre": "Producto P645",
+    "descripcion": "Producto de prueba",
+    "precio": 64.5
+  },
+  {
+    "codigo": "P695",
+    "nombre": "Producto P695",
+    "descripcion": "Producto de prueba",
+    "precio": 69.5
+  },
+  {
+    "codigo": "P921",
+    "nombre": "Producto P921",
+    "descripcion": "Producto de prueba",
+    "precio": 92.1
+  },
+  {
+    "codigo": "P642",
+    "nombre": "Producto P642",
+    "descripcion": "Producto de prueba",
+    "precio": 64.2
+  },
+  {
+    "codigo": "P202",
+    "nombre": "Producto P202",
+    "descripcion": "Producto de prueba",
+    "precio": 20.2
+  },
+  {
+    "codigo": "P753",
+    "nombre": "Producto P753",
+    "descripcion": "Producto de prueba",
+    "precio": 75.3
+  },
+  {
+    "codigo": "P663",
+    "nombre": "Producto P663",
+    "descripcion": "Producto de prueba",
+    "precio": 66.3
+  },
+  {
+    "codigo": "P131",
+    "nombre": "Producto P131",
+    "descripcion": "Producto de prueba",
+    "precio": 13.1
+  },
+  {
+    "codigo": "P699",
+    "nombre": "Producto P699",
+    "descripcion": "Producto de prueba",
+    "precio": 69.9
+  },
+  {
+    "codigo": "P255",
+    "nombre": "Producto P255",
+    "descripcion": "Producto de prueba",
+    "precio": 25.5
+  },
+  {
+    "codigo": "R269",
+    "nombre": "Producto R269",
+    "descripcion": "Producto de prueba",
+    "precio": 26.9
+  },
+  {
+    "codigo": "Q269",
+    "nombre": "Producto Q269",
+    "descripcion": "Producto de prueba",
+    "precio": 26.9
+  },
+  {
+    "codigo": "Z269",
+    "nombre": "Producto Z269",
+    "descripcion": "Producto de prueba",
+    "precio": 26.9
+  },
+  {
+    "codigo": "P690",
+    "nombre": "Producto P690",
+    "descripcion": "Producto de prueba",
+    "precio": 69
+  },
+  {
+    "codigo": "Q559",
+    "nombre": "Producto Q559",
+    "descripcion": "Producto de prueba",
+    "precio": 55.9
+  },
+  {
+    "codigo": "R609",
+    "nombre": "Producto R609",
+    "descripcion": "Producto de prueba",
+    "precio": 60.9
+  },
+  {
+    "codigo": "P269",
+    "nombre": "Producto P269",
+    "descripcion": "Producto de prueba",
+    "precio": 26.9
+  },
+  {
+    "codigo": "P984",
+    "nombre": "Producto P984",
+    "descripcion": "Producto de prueba",
+    "precio": 98.4
+  },
+  {
+    "codigo": "P764",
+    "nombre": "Producto P764",
+    "descripcion": "Producto de prueba",
+    "precio": 76.4
+  },
+  {
+    "codigo": "P064",
+    "nombre": "Producto P064",
+    "descripcion": "Producto de prueba",
+    "precio": 6.4
+  },
+  {
+    "codigo": "P055",
+    "nombre": "Producto P055",
+    "descripcion": "Producto de prueba",
+    "precio": 5.5
+  },
+  {
+    "codigo": "P721",
+    "nombre": "Producto P721",
+    "descripcion": "Producto de prueba",
+    "precio": 72.1
+  },
+  {
+    "codigo": "P974",
+    "nombre": "Producto P974",
+    "descripcion": "Producto de prueba",
+    "precio": 97.4
+  },
+  {
+    "codigo": "P559",
+    "nombre": "Producto P559",
+    "descripcion": "Producto de prueba",
+    "precio": 55.9
+  }
+]
