@@ -10,6 +10,6 @@ En esta clase se abordó la temática del mapeo para arreglos multidimensionales
 En esta clase se trataron temas relacionados con los árboles binarios y se desarrolló un ejemplo desde cero de cómo programar un árbol binario simple en C.
 ## Clase 5 - Matrices
 Me salté esta clase :(
-## Clase 4 - Árboles AVL
+## Clase 6 - Árboles AVL
 Esta clase trató de Árboles AVL, porqué son necesarios, qué rotaciones se deben hacer y un cheat sheet para saber qué rotaciones hacer según el factor de balance de los nodos.
 ### Próxima clase: Árboles B
