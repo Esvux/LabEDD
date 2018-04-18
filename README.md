@@ -8,4 +8,8 @@ En esta clase se da una introducción al manejo de memoria dinámica con element
 En esta clase se abordó la temática del mapeo para arreglos multidimensionales, tanto con índices fijos, como con índices compuestos.
 ## Clase 4 - Árboles binarios
 En esta clase se trataron temas relacionados con los árboles binarios y se desarrolló un ejemplo desde cero de cómo programar un árbol binario simple en C.
-### Próxima clase: Árboles de órden n
+## Clase 5 - Matrices
+Me salté esta clase :(
+## Clase 4 - Árboles AVL
+Esta clase trató de Árboles AVL, porqué son necesarios, qué rotaciones se deben hacer y un cheat sheet para saber qué rotaciones hacer según el factor de balance de los nodos.
+### Próxima clase: Árboles B
