@@ -14,6 +14,7 @@ Antes de iniciar, se crean al menos dos paquetes, uno para los modelos (datos y 
 Al crear el primer endpoint se crearán dos clases en el paquete seleccionado, `ApplicationConfig` es la clase que agrupa y configura todos los endpoints que se crearán en la aplicación, además de determinar la base de la URL del API por medio de la anotación `@ApplicationPath`.
 
 El resultado final será un proyecto con la siguiente estructura.
+
 ![Estructura del proyecto](https://github.com/Esvux/LabEDD/blob/resources/Resources/000-files.png)
 
 El servidor que les recomiendo usar es [WildFly](http://wildfly.org/) y para quienes quieran el reto de usar Payara les recomiendo [este tutorial](https://stackoverflow.com/questions/18317927/force-glassfish4-to-use-jackson-instead-of-moxy).
