@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es" ng-app="UrbanEDD">
+<head>
+	<meta charset="UTF-8">
+	<title>UrbanEDD</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+	<nav class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="#">UrbanEDD</a>
+			</div>
+		</div>
+	</nav>
+	<div class="container">
+		<div class="row" ng-controller="ControladorTransbordos" style="padding: 4em 1em;">
+			<div class="col-sm-3 box-shadow" ng-repeat="ruta in rutas">
+				<div class="card-header">
+					<h4>{{ruta.nombre}}</h4>
+				</div>
+				<div class="card-body">
+					<button class="btn btn-primary" ng-click="registrarTransbordo(ruta.codigo)">Registrar abordaje</button>			
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="app.js"></script>
+</body>
+</html>
