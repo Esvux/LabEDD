@@ -26,6 +26,7 @@ public class ApplicationConfig extends Application {
     private void addRestResourceClasses(Set<Class<?>> resources) {
         resources.add(org.esvux.urbanedd.rest.EstacionesResource.class);
         resources.add(org.esvux.urbanedd.rest.RutasResource.class);
+        resources.add(org.esvux.urbanedd.rest.TicketsResource.class);
     }
     
 }
