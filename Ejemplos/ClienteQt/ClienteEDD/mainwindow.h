@@ -1,6 +1,6 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
-
+#include <QString>
 #include <QMainWindow>
 
 namespace Ui {
@@ -16,10 +16,17 @@ public:
     ~MainWindow();
 
 private slots:
-    void on_pushButton_clicked();
+    void on_pushButton5Q_clicked();
+
+    void on_pushButton30Q_clicked();
+
+    void on_pushButton50Q_clicked();
+
+    void on_pushButton100Q_clicked();
 
 private:
+    const QString URL_BASE = "http://localhost:8080/UrbanEDD/rest";
     Ui::MainWindow *ui;
+    void enviarPeticion(double monto);
 };
-
 #endif // MAINWINDOW_H
