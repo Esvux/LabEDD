@@ -12,4 +12,6 @@ En esta clase se trataron temas relacionados con los árboles binarios y se desa
 Me salté esta clase :(
 ## Clase 6 - Árboles AVL
 Esta clase trató de Árboles AVL, porqué son necesarios, qué rotaciones se deben hacer y un cheat sheet para saber qué rotaciones hacer según el factor de balance de los nodos.
-### Próxima clase: Árboles B
+## Clase 7 - Tablas de dispersión
+Esta clase trató de Tablas de dispersión, se elaboró un ejemplo en clase y se discutió en clase la importancia de conocer las estructuras de datos para un desarrollador en su día a día.
+### Próxima clase: Grafos
