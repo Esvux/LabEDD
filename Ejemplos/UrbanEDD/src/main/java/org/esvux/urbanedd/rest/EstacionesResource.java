@@ -1,21 +1,14 @@
 package org.esvux.urbanedd.rest;
 
-import java.util.Arrays;
-import java.util.List;
-import javax.inject.Inject;
-import javax.validation.Valid;
 import javax.ws.rs.Produces;
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
 import javax.ws.rs.POST;
-import javax.ws.rs.PUT;
 import javax.ws.rs.Path;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
-import org.esvux.urbanedd.model.Curso;
 import org.esvux.urbanedd.model.Estacion;
-import org.esvux.urbanedd.model.Estudiante;
-import org.esvux.urbanedd.model.ListaEstaciones;
+import org.esvux.urbanedd.model.ListaGenerica;
 
 /**
  * REST Web Service
@@ -27,9 +20,8 @@ import org.esvux.urbanedd.model.ListaEstaciones;
 @Consumes(MediaType.APPLICATION_JSON)
 public class EstacionesResource {
 
-    @Inject
-    ListaEstaciones estaciones;
-
+    private ListaGenerica<Estacion> estaciones = ListaGenerica.getListaEstaciones();
+    
     /**
      * Retrieves representation of an instance of org.esvux.urbanedd.rest.EstacionesResource
      * @return an instance of org.esvux.urbanedd.model.Estacion
@@ -59,7 +51,7 @@ public class EstacionesResource {
     @POST
     public Response addEstacion(Estacion nueva) {
         estaciones.add(nueva);
-        return Response.ok().build();
+        return Response.ok("{\"mensaje\":\"Ok\"}").build();
     }
     
 }
